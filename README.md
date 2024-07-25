@@ -1,4 +1,4 @@
-Project is in master branch
+
 clone the project using cmd to the pc folder
 commands to clone - cd desktop
 mkdir library.
